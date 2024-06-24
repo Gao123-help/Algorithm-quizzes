@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    ".pc": "c",
+    "*.pc": "c",
+    "vector": "cpp"
+  }
+}
