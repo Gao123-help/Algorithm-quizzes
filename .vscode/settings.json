@@ -3,5 +3,6 @@
     ".pc": "c",
     "*.pc": "c",
     "vector": "cpp"
-  }
+  },
+  "editor.fontSize": 16
 }
