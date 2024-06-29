@@ -37,4 +37,5 @@ def oneEditAway(self, first: str, second: str) -> bool:
             if x != y:
                 return first[i + 1:] == second[i + 1:] if m == n else first[i + 1:] == second[i:]  # 注：改用下标枚举可达到 O(1) 空间复杂度
         return True
+    
 
